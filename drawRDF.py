@@ -247,9 +247,16 @@ while True:
                 print(f'Enter the number of labels: {len(file_list)}')
                 print('For example: x${_2}$')
                 user_label = []
-                for _ in range(len(file_list)):
-                    user_label.append(input())
+                input_num = 0
+                while input_num != len(file_list):
+                    input_label = input()
+                    if input_label != '':
+                        user_label.append(input_label)
+                        input_num += 1
+                    else:
+                        print('Invalid input.')
                 label = user_label
+                legend_bool = True
             case '6':
                 print('Please enter the position of legend, you can enter the following values.')
                 s = input(', '.join(label_position_list)+'\n')
