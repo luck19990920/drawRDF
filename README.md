@@ -52,7 +52,9 @@ q  Exit program
 * 按`s`: 保存图片，可以选择的保存格式有`eps`,`jpeg`,`jpg`,`pdf`,`pgf`,`png`,`ps`,`raw`,`rgba`,`svg`,`svgz`,`tif`,`tiff`
 * 按`q`: 退出程序
 
-![](./example/drawRDF.mp4)
+
+https://github.com/user-attachments/assets/06e9fcb1-83a6-4910-b931-d54ff6a39eef
+
 
 ### 绘图效果
 ##### 实例1：绘制单独的一条径向分布函数曲线
