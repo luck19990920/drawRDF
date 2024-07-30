@@ -1,5 +1,5 @@
 # drawRDF
-`drawRDF`是一款开源的绘图软件，旨在从gromacs (https://www.gromacs.org/) 的`gmx rdf`命令获得的xvg文件直接绘制径向分布函数图像与配位数图像。目前`drawRDF`的最新版本为`drawRDF_1.1`
+`drawRDF`是一款开源的绘图软件，旨在从gromacs (https://www.gromacs.org/) 的`gmx rdf`命令获得的xvg文件直接绘制径向分布函数图像与配位数图像。目前`drawRDF`的最新版本为`drawRDF_1.1`。
 
 ### 使用方法
 目录下`drawRDF_1.1.py`为`drawRDF_1.1`软件的python源代码，`drawRDF_1.1.exe`为其的可执行文件。双击`drawRDF_1.1.exe`就可以运行该软件。运行该软件后，首先会看到以下的内容：
