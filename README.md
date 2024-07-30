@@ -1,5 +1,4 @@
 # drawRDF
-A Python script that plots radial distribution function (RDF) and coordination number curve from xvg file produced by gromacs.
 `drawRDF`是一款开源的绘图软件，旨在从gromacs (https://www.gromacs.org/) 的`gmx rdf`命令获得的xvg文件直接绘制径向分布函数图像与配位数图像。
 
 ### 使用方法
