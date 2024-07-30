@@ -52,7 +52,7 @@ q  Exit program
 * 按`s`: 保存图片，可以选择的保存格式有`eps`,`jpeg`,`jpg`,`pdf`,`pgf`,`png`,`ps`,`raw`,`rgba`,`svg`,`svgz`,`tif`,`tiff`
 * 按`q`: 退出程序
 
-https://github.com/user-attachments/assets/5748bff2-256d-4135-920c-7bd79d670fa3
+![drawRDF](https://github.com/user-attachments/assets/faa7df8b-4e28-4949-8347-beb2718ee08b)
 
 
 
