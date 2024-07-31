@@ -304,7 +304,7 @@ while True:
             for _, value in dict_RDF_XVG.items():
                 for i in value:
                     i.legend = input(f'Please enter the label for {i.filename}\n')
-                    label.append(i.legend)
+                    label.append(str(None) if i.legend == "" else i.legend)
         case "5":
             label_position = input('Please enter the position of legend, you can enter the following values.\n'+', '.join(label_position_list)+'\n')
         case "6":
